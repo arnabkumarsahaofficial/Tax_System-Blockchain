@@ -18,7 +18,8 @@ It is vital to understand how governments are using blockchain to collect tax du
 
 Mistakes and fraud could be reduced greatly.
 
-Could the tax function be replaced by blockchain’s secure, certain and real-time ledger? ►Tax professionals and tax compliance administrators may need to become blockchaintechnologists.
+Could the tax function be replaced by blockchain’s secure, certain and real-time ledger? 
+►Tax professionals and tax compliance administrators may need to become blockchaintechnologists.
 
 Tax knowledge still will be required to build, install and maintain systems.
 
